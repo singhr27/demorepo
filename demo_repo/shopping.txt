@@ -19,3 +19,7 @@ sugar
 flour
 salsa
 
+bacon
+mc 
+pc
+bs
