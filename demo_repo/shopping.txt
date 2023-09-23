@@ -4,7 +4,7 @@ apples
 bananas
 yogurt
 milk
-wheat bread
+bread
 cereal
 eggs
 bacon
@@ -18,8 +18,3 @@ ice cream
 sugar
 flour
 salsa
-
-bacon
-mc 
-pc
-bs
